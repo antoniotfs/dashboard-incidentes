@@ -1,4 +1,4 @@
-import{r as s,j as n}from"./index-C7gPbgan.js";import{S as l}from"./index-CF1zRpNE.js";import{d as c}from"./styled-components.browser.esm-DrslAiFu.js";const a=c("div")`
+import{r as s,j as n}from"./index-o7xOxfVc.js";import{S as l}from"./index-WBlcSUJA.js";import{d as c}from"./styled-components.browser.esm-p_bcJ-T9.js";const a=c("div")`
   padding: 10px;
   position: fixed;
   right: 30px;
